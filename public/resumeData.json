@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name":"Melvine Mathews",
+    "description":"My Virtual Playground, where I'm tinkering with web development, using AWS, React, Python, APIs. Check out the Samples section to see some results of these attempts",
+    "image":"profilepic.jpg",
+    "bio":"I am a highly versatile, articulate and innovative individual with an extensive depth of knowledge in technology and a broad spectrum of experience in several areas of retail banking. In addition to being adept at developing and driving strategy, I possess detailed knowledge, experience and skill in payments, analytics, channel development and the strategic development of banking (internet and mobile based) channels. I’ve always believed that transactional banking will be commoditized, and I am keen to be at the forefront to usher in the platform approach through Open Banking .",
+    "contactmessage":"If you would like to chat about the new ecomony and what we could do in it, drop me a line and I'll get back.",
+    "email": "melvinis@gmail.com",
+    "phone": "971-50-851-7270",
+    "github":"https://github.com/melvinis/theparabrahman",
+    "project":"https://github.com/melvinis/theparabrahman",
+    "address":{
+      "street":"Al Qubba Street",
+      "city":"Umm Suquiem 2",
+      "state":"Dubai",
+      "zip": "United Arab Emirates"
+    },
+    "website": "http://www.theparabrahman.com",
+    "resumedownload":"http://theparabrahman.com",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/melvinis/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/melvinis/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/melvinis/theparabrahman",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some stuff that I'm pretty good at",
+    "education":[
+      {
+        "school":"Lancaster University Management School",
+        "degree":"Masters in Business Administration",
+        "graduated":"September 2002",
+        "description":"Strategy & Finance."
+      },
+      {
+        "school":"Fr. Conceicao Rodrigues College of Engineering",
+        "degree":"Bachelors in Computer Engineering",
+        "graduated":"September 1998",
+        "description":"Blah Blah..."
+      }
+    ],
+    "work":[
+      {
+        "company":"Mashreq Bank",
+        "title":"Vice President - Products, Portfolio and Performance",
+        "years":"February 2019 - Present",
+        "description":"Blah Blah..."
+      },
+      {
+        "company":"Standard Chartered Bank",
+        "title":"Head, Priority and International Banking",
+        "years":"April 2004 - January 2019",
+        "description":"Blah Blah..."
+      },
+      {
+        "company":"Bangalore Labs",
+        "title":"Technology Consultant",
+        "years":"March 2007 - February 2010",
+        "description":"Blah Blah..."
+      },
+      {
+        "company":"Microland",
+        "title":"Consultant - Technology Practices",
+        "years":"August 1998 - February 2010",
+        "description":"Blah Blah..."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"50%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"50%"
+      },
+      {
+        "name":"R",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Take Out The Trash",
+        "category":"Post chores, get kids to signup, pay them pocket money for completing chores",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.theparabrahman.com/takeoutthetrash"
+      },
+      {
+        "title":"FoodArt",
+        "category":"Pintrest style website for posting images and reciepes of food",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  }
+}
