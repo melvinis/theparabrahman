@@ -110,14 +110,20 @@
       {
         "title":"Take Out The Trash",
         "category":"Post chores, get kids to signup, pay them pocket money for completing chores",
-        "image":"canadian-wanderlust.jpg",
+        "image":"tott.jpg",
         "url":"https://www.theparabrahman.com/takeoutthetrash"
       },
       {
         "title":"FoodArt",
         "category":"Pintrest style website for posting images and reciepes of food",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "image":"food-is-art.jpg",
+        "url":"https://www.pinterest.com/buzzfeedtasty/"
+      },
+      {
+        "title":"Personal Profile",
+        "category":"Online Resume to demonstrate use of AWS for app hosting and React/JavaScript for Frontend Web App development.",
+        "image":"resume.jpg",
+        "url":"http://theparabrahman.com"
       }
     ]
   }
